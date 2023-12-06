@@ -2,20 +2,9 @@
 This is a full-scale search using the HTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift Lyman-break galaxy. This project requires running about 2500 jobs of a few minutes to an hour each. 
 
 ## Code 
-Contains any R code for cleaning, analysis, visualization, modeling or shiny application creation.
-- [Data_Cleaning.R](Code/Data_Cleaning.Rmd) code to load the data, create new metric variables for height and weight, and look for outliers.
-- [Model.R](Code/Model.Rmd) code for creating and analyzing AIC, BIC stepwise regression, and LASSO models.
-- [ShinyApp.R](Code/ShinyApp.R) code to run Shiny App.
+Contains code for High Throughput Computing.
+There are about 2.5 million spectra stored in the directory /home/groups/STAT_DSCP/boss/tgz on the CHTC cluster. This directory contains 2459 .tgz files, each around 100 MB. Each.tgz file extracts to a directory containing about 1000 spectra. The template cB58 is stored in /home/groups/STAT_DSCP/boss/cB58_Lyman_break.fit.
 
-## Data 
-Contains any data raw and cleaned one.
-- [BodyFat.csv](Data/BodyFat.csv) raw data.
-- [newdata.csv](Data/newdata.csv) cleaned data.
-
-## Images 
-Contains all images related to the project.
+## Result
 
 
-## ShinyApp
-Click on the following link and enter relevant body measurements to predict your body fat rate.
-#### Shiny Link: https://lanxizhang.shinyapps.io/Code/
