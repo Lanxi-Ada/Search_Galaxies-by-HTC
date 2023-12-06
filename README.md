@@ -6,5 +6,5 @@ Contains code for High Throughput Computing.
 There are about 2.5 million spectra stored in the directory /home/groups/STAT_DSCP/boss/tgz on the CHTC cluster. This directory contains 2459 .tgz files, each around 100 MB. Each.tgz file extracts to a directory containing about 1000 spectra. The template cB58 is stored in /home/groups/STAT_DSCP/boss/cB58_Lyman_break.fit.
 
 ## Result
-
+[hw4.html](Result/hw4.html)
 
