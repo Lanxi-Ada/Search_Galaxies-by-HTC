@@ -1,5 +1,9 @@
 # Search Galaxies though High-throughput computing
-This is a full-scale search using the HTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift Lyman-break galaxy. This project requires running about 2500 jobs of a few minutes to an hour each. 
+
+Try to find a new gravitationally-lensed Lyman-break galaxy for UW astronomer Christy Tremonti. If we have a target spectrum of an astronomical object, a noisy version of the target, a shifted version of the target, and an unrelated spectrum. We want to find the second and third spectra from among many others. Our job is to find those spectra most like cB58 using Andrew Pontzen's movie of a simulated redshifted spectrum developing as light from a quasar passes through gas clouds and a galaxy.
+
+This is a full-scale search using the HTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift Lyman-break galaxy. This project requires running about 2500 jobs of a few minutes to an hour each.
+
 
 ## Code 
 Contains code for High Throughput Computing.
