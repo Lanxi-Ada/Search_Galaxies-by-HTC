@@ -1,4 +1,4 @@
-# Search_Galaxies-by-HTC
+# Search Galaxies though HTC
 This is a full-scale search using the HTC (via learn.chtc.wisc.edu) for an undiscovered, gravitationally lensed, high-redshift Lyman-break galaxy. This project requires running about 2500 jobs of a few minutes to an hour each. 
 
 ## Code 
